@@ -6,11 +6,7 @@ feeds:
     branch: master
 packages:
   - luci-app-mwan3
-  - luci-app-frpc
   - luci-app-bypass
-  - luci-app-wol
-  - luci-app-adguardhome
-  - luci-app-samba
 
 
 diffconfig: |
